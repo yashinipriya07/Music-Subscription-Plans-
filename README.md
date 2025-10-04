@@ -1,7 +1,5 @@
 # Music-Subscription-Plans-
 Beautiful music subscription plan design showing Free, Standard, and Premium options using HTML and CSS.
-Perfect 😄 Here's a ready-to-use GitHub README for your Music Subscription Plans Page project — you can copy and paste it directly into your README.md file on GitHub.
-
 
 ---
 
@@ -42,7 +40,7 @@ Font Awesome Icons
 
 1. Download or clone this repository:
 
-git clone 
+git clone https://yashinipriya07.github.io/Music-Subscription-Plans-/
 
 
 2. Open the folder in VS Code or any editor.
