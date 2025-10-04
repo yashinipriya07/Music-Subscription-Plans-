@@ -40,7 +40,7 @@ Font Awesome Icons
 
 1. Download or clone this repository:
 
-git clone https://yashinipriya07.github.io/Music-Subscription-Plans-/
+git clone https://github.com/yashinipriya07/Music-Subscription-Plans-.git
 
 
 2. Open the folder in VS Code or any editor.
